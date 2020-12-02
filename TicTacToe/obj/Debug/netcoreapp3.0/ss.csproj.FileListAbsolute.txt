@@ -1,0 +1,11 @@
+/Users/moshak/Projects/ss/ss/obj/Debug/netcoreapp3.0/ss.csprojAssemblyReference.cache
+/Users/moshak/Projects/ss/ss/obj/Debug/netcoreapp3.0/ss.AssemblyInfoInputs.cache
+/Users/moshak/Projects/ss/ss/obj/Debug/netcoreapp3.0/ss.AssemblyInfo.cs
+/Users/moshak/Projects/ss/ss/bin/Debug/netcoreapp3.0/ss
+/Users/moshak/Projects/ss/ss/bin/Debug/netcoreapp3.0/ss.deps.json
+/Users/moshak/Projects/ss/ss/bin/Debug/netcoreapp3.0/ss.runtimeconfig.json
+/Users/moshak/Projects/ss/ss/bin/Debug/netcoreapp3.0/ss.runtimeconfig.dev.json
+/Users/moshak/Projects/ss/ss/bin/Debug/netcoreapp3.0/ss.dll
+/Users/moshak/Projects/ss/ss/bin/Debug/netcoreapp3.0/ss.pdb
+/Users/moshak/Projects/ss/ss/obj/Debug/netcoreapp3.0/ss.dll
+/Users/moshak/Projects/ss/ss/obj/Debug/netcoreapp3.0/ss.pdb

@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "BHgElWBJh0ZzrFUnmE4BWbVIVNlTr0q5dxPX111ELslAvCMLWcuknzzzYPgcJIjM89A+u+UElgyx4GcwmS86mQ==",
+  "success": true,
+  "projectFilePath": "/Users/moshak/Downloads/ss/ss/TicTacToe_2player.csproj",
+  "expectedPackageFiles": [
+    "/Users/moshak/.nuget/packages/microsoft.aspnetcore.app.ref/3.0.1/microsoft.aspnetcore.app.ref.3.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}
